@@ -1,2 +1,5 @@
-# mcg-kiosk
- MCG Kiosk
+# MCG - Kiosk
+
+- 2017
+- HTML/CSS/JS
+- React.JS
